@@ -1,0 +1,36 @@
+    1  git config --global user.name nandhini2109
+    2  git config -- global user.name nandinich2109@gmail.com
+    3  git config --global user.name nandinich2109@gmail.com
+    4  git config --list
+    5  git config --global user.name nandhini2109
+    6  git config--list
+    7  git config --list
+    8  get config --global user.name nandhini2109
+    9  git config --global user.name nandhini2109
+   10  git config --list
+   11  git config --global user.name nandhini2109
+   12  git config --global user name nandhinich2109@gmail.com
+   13  git config --list
+   14  git config --global user.name nandhini2109
+   15  git config --global user.name nandini2109@gmail.com
+   16  git config --list
+   17  git init
+   18  git add .
+   19  git status
+   20  git commit m "first commit"
+   21  git commit M main
+   22  git comit -m "first commit"
+   23  git commit - M main
+   24  git config --user.name nandhini2109
+   25  git config --global user.name nandhini2109
+   26  git config --global user.email nandinich2109@gmail.com
+   27  git config --list
+   28  git init
+   29  git add .
+   30  git status
+   31  git commit -m "first commit"
+   32  git branch -M main
+   33  git remote add origin https://github.com/nandhini2109/Demo.git
+   34  git push -u origin main
+   35  history
+   36  history>commands.txt
